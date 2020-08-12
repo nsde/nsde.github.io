@@ -1,1 +1,2 @@
-Wow cool awesome nice
+# Main Page
+This is a test, hello!
