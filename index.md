@@ -1,3 +1,5 @@
+<link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
+
 # Welcome to onlix.me
 This website is currently in developement.
 
