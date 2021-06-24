@@ -8,3 +8,6 @@ Sorted by mostly used:
 - [Minecraft](https://namemc.com/profile/onlixx.2)
 - [Instagram](https://instagram.com/xonlix)
 - [Twitter](https://twitter.com/onlix)
+
+# Friends & Partners
+Check out my friend's Minecraft server [MineLeague](https://mineleague.net)!
